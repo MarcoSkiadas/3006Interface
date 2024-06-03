@@ -1,11 +1,8 @@
 package org.example;
 
 
-public class MediaController implements Playable {
+public class MediaController {
 
-    @Override
-    public void play() {
-    }
     public void playMedia(Playable media) {
         media.play();
     }

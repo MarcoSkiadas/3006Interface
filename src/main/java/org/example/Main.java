@@ -9,5 +9,6 @@ public class Main {
 
         mediaController.playMedia(musicPlayer);
         mediaController.playMedia(videoPlayer);
+
     }
 }
